@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there  mi nom es Melodi Marisel Romero, soy  desarrolladora web full stack.
 
-<!--
-**melodiromero/melodiromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, mi nombre es Melodi Marisel Romero, soy desarrolladora web full stack, programadora en sql y administradora de bases de datos. Actualmente estoy especializandome en el mundo de los datos, deseo convertirme en una científica de datos.
 
-Here are some ideas to get you started:
+#### Habilidades:
+* PHP
+* JAVASCRIPT
+* HTML
+* NODEJS
+* MYSQL
+*  MARIABD
+*  MONGODB
+*  POWERBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

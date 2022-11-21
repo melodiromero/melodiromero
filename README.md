@@ -13,5 +13,8 @@ Hola, mi nombre es Melodi Marisel Romero, soy desarrolladora web full stack, pro
 * POWERBI
 
 #### Puedes contactarme en:
-![mi red Lindekin]('/img/linkedin.png')
+
+<image src="/img/linkedin.png" alt="mi dirección de Lindekin"> https://www.linkedin.com/in/melodi-marisel-romero-227911104/
+<image src="/img/gmail.png" alt="mi Correo Electronico"> melodimarisel@gmail.com
+
 

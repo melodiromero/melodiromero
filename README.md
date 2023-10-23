@@ -10,12 +10,9 @@
 - Programación en Python y Nodejs
 - Machine Learning
 
-Hola, mi nombre es Melodi Marisel Romero, soy desarrolladora web full stack, programadora en sql y administradora de bases de datos. Actualmente estoy especializandome en el mundo de los datos, deseo convertirme en una científica de datos.
-
-
 ## Contáctame
 
 Puedes encontrarme en las redes sociales:
 
-- [LinkedIn]([Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/melodi-marisel-romero-227911104/))
+- [LinkedIn]https://www.linkedin.com/in/melodi-marisel-romero-227911104/))
 - [Gmail](melodimarisel@gmail.com)

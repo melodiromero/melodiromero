@@ -14,5 +14,5 @@
 
 Puedes encontrarme en las redes sociales:
 
-- [LinkedIn]https://www.linkedin.com/in/melodi-marisel-romero-227911104/))
-- [Gmail](melodimarisel@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/melodi-marisel-romero-227911104/))
+- [Gmail] : melodimarisel@gmail.com
